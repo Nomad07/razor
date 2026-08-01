@@ -1,4 +1,4 @@
-\# Git Workflow
+# Git Workflow
 
 
 
@@ -6,17 +6,17 @@ This document describes a basic GitHub workflow.
 
 
 
-\## Steps
+## Steps
 
 
 
-\- Create a branch
+- Create a branch
 
-\- Make changes
+- Make changes
 
-\- Commit changes
+- Commit changes
 
-\- Open a Pull Request
+- Open a Pull Request
 
-\- Merge changes
+- Merge changes
 
