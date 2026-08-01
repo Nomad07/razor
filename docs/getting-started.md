@@ -1,4 +1,4 @@
-\# Getting Started
+# Getting Started
 
 
 
@@ -10,13 +10,13 @@ This repository is used to practice Git, GitHub and basic project organization.
 
 
 
-\## Goals
+## Goals
 
 
 
-\- Learn Git fundamentals
+- Learn Git fundamentals
 
-\- Improve GitHub workflow
+- Improve GitHub workflow
 
-\- Keep useful notes
+- Keep useful notes
 
