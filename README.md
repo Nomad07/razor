@@ -1,4 +1,4 @@
-\# Razor
+# Razor
 
 
 
@@ -6,7 +6,7 @@ A personal repository for Git, GitHub and automation experiments.
 
 
 
-\## Purpose
+## Purpose
 
 
 
