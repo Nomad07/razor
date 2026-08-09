@@ -23,4 +23,5 @@ This repository is used for learning Git, GitHub, documentation and simple autom
 
 
 ## Project Notes
+
 Razor is a small project for practicing Git and GitHub workflows.
